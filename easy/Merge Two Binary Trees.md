@@ -23,7 +23,7 @@ Merged tree:
 ```
 
 
-My Solution
+### My Solution
 ```
 /**
  * Definition for a binary tree node.

@@ -74,7 +74,7 @@ var islandPerimeter = function(grid) {
 ## Comments
 - My idea is ok, but using template string is time wasting.
 - The best solution is more intuitive, it caculate the island num and neighbor num, and finally caculate the perimeter.
-
+ 
 
 
 
